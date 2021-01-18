@@ -1,12 +1,13 @@
 # Site settings
-title:
-email:
-description: > # this means to ignore newlines until "baseurl:"
+title: Aryn & Marek
+email: petiolus@gmail.com
+description: >
+  Wedding website for Aryn Baxter and Marek Borowiec
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
-twitter_username:
-github_username:
+twitter_username: mareklborowiec
+github_username: marekborowiec
 
 # Build settings
 markdown: kramdown
