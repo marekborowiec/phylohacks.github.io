@@ -174,7 +174,7 @@ header .header-content .header-content-inner p { font-weight: 500; font-size: 32
 
 .img-center { display: block; margin-left: auto; margin-right: auto; max-width: 90%; height: auto; padding: 15px 5px 15px 5px; }
 
-.img-max { max-width: 800px; width: 100%; margin: 0 auto; }
+.img-max { max-width: 800px; width: 100%; margin: auto; }
 
 .iframe-container { position: relative; overflow: hidden; width: 100%; padding-top: 100%; }
 
