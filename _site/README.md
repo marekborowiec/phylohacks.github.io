@@ -1,4 +1,4 @@
-# Marek and Aryn's wedding website
+# Borowiec lab website
 
 Based on the Jekyll Creative Theme. See below.
 
