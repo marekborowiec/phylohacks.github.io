@@ -16,4 +16,4 @@ See it live in action at <https://volny.github.io/creative-theme-jekyll/>
 - Start by adding your info in `_config.yml`
 - In `_layouts/front.html` reorder or remove section as you prefer.
 
-# CSS to use is in /creative-theme-jekyll/_site/css/main.css and others in there
+### CSS to use is in ./css/main.scss
